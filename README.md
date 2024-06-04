@@ -24,6 +24,7 @@ If you need to view the output again, you can do so by following these steps:
 
 The pipeline will then start running again, and you can observe the output of the generated random numbers directly from the pipeline execution logs.
 
+Please note that output may be truncated in pipeline logs due to length limitations.
 
 ## Implementation
 
